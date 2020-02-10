@@ -1,0 +1,1269 @@
+{
+    "EPTC Network" : {
+        "children" : {
+            "Internet Faults" : {
+                "QNT_UID" : 1337096,
+                "children" : [
+                    {"QNT_UID" : 1337382, "NAME" : "IC001 Password", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337384, "NAME" : "IC002 Configuration", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337385, "NAME" : "IC003 Server", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337388, "NAME" : "IC004 Router", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337389, "NAME" : "IC005 Modem", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337391, "NAME" : "IC006 Referred to Data", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337395, "NAME" : "IC007 Referred to Lines", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337397, "NAME" : "IC008 Access Number", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337399, "NAME" : "IC010 Webmail", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337400, "NAME" : "IC011 No fault found", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337402, "NAME" : "IC012 Miscellaneous", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337301, "NAME" : "IR002 Unable to receive mail", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 3679557, "NAME" : "No ADSL Signal", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337242, "NAME" : "IR001 Unable to connect", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337302, "NAME" : "IR003 Can't browse", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337304, "NAME" : "IR004 No DSL Signal", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337306, "NAME" : "IR005 Faulty Modem", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337310, "NAME" : "IR006 Email Problems", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337311, "NAME" : "IR007 Internet Slow", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337314, "NAME" : "IR008 Email Account not conf", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337318, "NAME" : "IR009 Faulty NIC", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337331, "NAME" : "IR010 629 The connection was closed by the remote computer", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337334, "NAME" : "IR012 650 The remote access server is not responding", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337337, "NAME" : "IR011 666 The modem is not functioning", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337338, "NAME" : "IR014 680 There was no dial tone", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337342, "NAME" : "IR013 676 The phone line is busy", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337357, "NAME" : "IR015 691 Access was denied because the userNAME/password was incorrect", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337361, "NAME" : "IR016 692 Hardware fauilure in the modem", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337363, "NAME" : "IR019 Lease line internet not working", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337364, "NAME" : "IR020 Portal access denied", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337366, "NAME" : "IR021 Connection unstable", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337368, "NAME" : "IR022 DSL modem does not switch on", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337369, "NAME" : "IR023 DSL light off", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337371, "NAME" : "IR024 DSL light on but internet light red/off", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 1337374, "NAME" : "IR025 DSL and Internet light but cannot browse", "PARENT_QNT_UID" : 1337096, "CODE_TYPE" : "C"}
+                    
+                ]
+            },
+
+            "General Enquiry" : {
+                "QNT_UID" : 1880,
+                "children" : []
+            },
+
+            "Bill Enquiry" : {
+                "QNT_UID" : 1879,
+                "children" : [
+                    {"QNT_UID" : 86952, "NAME" : "Payment dispute resolved", "PARENT_QNT_UID" : 1879, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 86951, "NAME" : "Billing dispute resolved", "PARENT_QNT_UID" : 1879, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 86949, "NAME" : "Billing dispute", "PARENT_QNT_UID" : 1879, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 86950, "NAME" : "Payment dispute", "PARENT_QNT_UID" : 1879, "CODE_TYPE" : "R"}
+                ]
+            },
+
+            "Fixexd Wireless Faults" : {
+                "QNT_UID" : 281249,
+                "children" : [  
+                    {"QNT_UID" : 293355, "NAME" : "Base Station was Down", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 293370, "NAME" : "Poor Signal Strength", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 293380, "NAME" : "No airtime", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 293387, "NAME" : "Line is barred", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 293408, "NAME" : "Instrument Fixed", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 293469, "NAME" : "Zone not Activated or Restricted", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 293344, "NAME"	: "Base Station still not activated", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 293375, "NAME" : "Blind Spot or Grey area", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 293384, "NAME" : "Network congestion", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 293414, "NAME"	: "Zone not Activated or Restricted", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "C"},
+                    {"QNT_UID" : 281273, "NAME"	: "FM010 Cannot send SMS", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 281279, "NAME" : "FM012 Phone Blocked (Need PUK Number)", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 281309, "NAME"	: "FM004 Low signal strength", "PARENT_QNT_UID" : 281249, "CODE_TYPE" :	"R"},
+                    {"QNT_UID" : 281311, "NAME"	: "FM002 Poor Voice quality/Noisy", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 281313, "NAME" : "FM015 Network Congestion", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 281268, "NAME"	: "FM006 Not Allowed to call some numbers", "PARENT_QNT_UID" : 281249, "CODETYPE" :	"R"},
+                    {"QNT_UID" : 281269, "NAME" : "FM007 Wrong charge", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 281270, "NAME" : "FM008 Cannot recharge", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 281272, "NAME" : "FM009 Cannot transfer money", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 281274, "NAME" : "FM011 Cannot register", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 281280, "NAME"	: "FM013 Cannot initiate calls in some zones", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 281308, "NAME"	: "FM005 Cannot initiate calls", "PARENT_QNT_UID" :	281249, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 281310, "NAME"	: "FM003 Call Cutting/Drop calls", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "R"},
+                    {"QNT_UID" : 281312, "NAME"	: "FM001 No Network coverage", "PARENT_QNT_UID" : 281249, "CODE_TYPE" : "R"}
+
+                ]
+            },
+
+            "Access System Maintnenance Faults" : {
+                "QNT_UID" : 2965432,
+                "children" : [
+                    {
+                        "QNT_UID": 2966962,
+                        "NAME": "Line card failure",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966964,
+                        "NAME": "Controller card failure",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966968,
+                        "NAME": "Subs power",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966966,
+                        "NAME": "Replace RBS",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966922,
+                        "NAME": "No Commercial Power",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966924,
+                        "NAME": "Link failure restored",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966930,
+                        "NAME": "Handset",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966932,
+                        "NAME": "Replace FAU",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966934,
+                        "NAME": "Right when Tested RWT",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966936,
+                        "NAME": "PCU replaced",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966940,
+                        "NAME": "Telephone cord",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966942,
+                        "NAME": "Block Terminal",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966944,
+                        "NAME": "System Reset",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966946,
+                        "NAME": "Arrestor",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966948,
+                        "NAME": "Wiring",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966950,
+                        "NAME": "FNF - Fault not Found",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966952,
+                        "NAME": "Transformer",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966954,
+                        "NAME": "FAU aligned",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966956,
+                        "NAME": "Switching",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966958,
+                        "NAME": "No Spare Parts",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966960,
+                        "NAME": "Power card",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966928,
+                        "NAME": "Replace faulty RPC",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966938,
+                        "NAME": "Indoor wire",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966926,
+                        "NAME": "Reset circuit breaker",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2966906,
+                        "NAME": "Out of Order",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966912,
+                        "NAME": "System down",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966920,
+                        "NAME": "RPC Failure",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 3136062,
+                        "NAME": "Refer to Line Fault Maintanance",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966896,
+                        "NAME": "NO POWER",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966898,
+                        "NAME": "PERMANENT BUSY TONE",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966900,
+                        "NAME": "DEAD",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966902,
+                        "NAME": "Channel Faulty",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966904,
+                        "NAME": "Loss of Signal",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966908,
+                        "NAME": "Cutting",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966910,
+                        "NAME": "Noisy",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966914,
+                        "NAME": "No response",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966916,
+                        "NAME": "Transmission Failure",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966918,
+                        "NAME": "Power failure",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966886,
+                        "NAME": "NO DIAL TONE",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966888,
+                        "NAME": "NO RINGS",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966890,
+                        "NAME": "PERMANENT RINGS",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966892,
+                        "NAME": "PERMANENT ENGAGE TONE",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2966894,
+                        "NAME": "NO COMMUNICATION",
+                        "PARENT_QNT_UID": 2965432,
+                        "CODE_TYPE": "R"
+                      }
+                ]
+            },
+
+            "Payphone Faults" : {
+                "QNT_UID" : 2965430,
+                "children" : [
+                    {
+                        "QNT_UID": 2965622,
+                        "NAME": "CHU Cleared",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965624,
+                        "NAME": "Handset Cleared",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965666,
+                        "NAME": "Display Unit Cleared",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965670,
+                        "NAME": "Keypad Cleared",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965672,
+                        "NAME": "Lower Door switch Cleared",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965678,
+                        "NAME": "No Spares",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965620,
+                        "NAME": "Refer to Line MTCE",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965668,
+                        "NAME": "PCB Cleared",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965676,
+                        "NAME": "Anti-line Tempering Cleared",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965674,
+                        "NAME": "Upper Door switch Cleared",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965532,
+                        "NAME": "Noisy",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965538,
+                        "NAME": "Coin Blockage",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965606,
+                        "NAME": "No outgoing Speech",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965614,
+                        "NAME": "Display ON and OFF",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965530,
+                        "NAME": "No Dialling Tone",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965534,
+                        "NAME": "Rejects Coins",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965536,
+                        "NAME": "Not Accepting Coins",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965540,
+                        "NAME": "Not refunding",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965542,
+                        "NAME": "Not Dialling",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965544,
+                        "NAME": "Not Displaying",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965608,
+                        "NAME": "No incoming Speech",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965610,
+                        "NAME": "Out of Order",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965612,
+                        "NAME": "Not Displaying",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965616,
+                        "NAME": "Upper door OPEN Fault",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965618,
+                        "NAME": "Lower door OPEN Fault",
+                        "PARENT_QNT_UID": 2965430,
+                        "CODE_TYPE": "R"
+                      }
+                ]
+            },
+
+            "Switching Faults" : {
+                "QNT_UID" : 2965428,
+                "children" : [
+                    {
+                        "QNT_UID": 2965528,
+                        "NAME": "NO SPARE PARTS",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965444,
+                        "NAME": "CHANGE PORT",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965526,
+                        "NAME": "CHANGE LINE CARD",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965438,
+                        "NAME": "NO DIAL TONE",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965434,
+                        "NAME": "NO RINGS",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965436,
+                        "NAME": "NO PULSES",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965440,
+                        "NAME": "CONTINOUS RINGS",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965442,
+                        "NAME": "CONTINOUS DIAL TONE",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 3136052,
+                        "NAME": "REFER TO LINE FAULT MAINTENANCE",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      }
+                ]
+            },
+
+            "PABX Faults" : {
+                "QNT_UID" : 2965426,
+                "children" : [
+                    {
+                        "QNT_UID": 2965528,
+                        "NAME": "NO SPARE PARTS",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965444,
+                        "NAME": "CHANGE PORT",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965526,
+                        "NAME": "CHANGE LINE CARD",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2965438,
+                        "NAME": "NO DIAL TONE",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965434,
+                        "NAME": "NO RINGS",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965436,
+                        "NAME": "NO PULSES",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965440,
+                        "NAME": "CONTINOUS RINGS",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2965442,
+                        "NAME": "CONTINOUS DIAL TONE",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 3136052,
+                        "NAME": "REFER TO LINE FAULT MAINTENANCE",
+                        "PARENT_QNT_UID": 2965428,
+                        "CODE_TYPE": "R"
+                      }
+                ]
+            },
+
+            "FixedPhone/FixedTerminal" : {
+                "QNT_UID" : 2915641,
+                "children" : [
+                    {
+                        "QNT_UID": 2915649,
+                        "NAME": "ZONE ALLOCATED",
+                        "PARENT_QNT_UID": 2915641,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2915651,
+                        "NAME": "CLI ACTIVATED",
+                        "PARENT_QNT_UID": 2915641,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2915643,
+                        "NAME": "Failure to initiate call",
+                        "PARENT_QNT_UID": 2915641,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2915645,
+                        "NAME": "NO CALLER ID",
+                        "PARENT_QNT_UID": 2915641,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2915647,
+                        "NAME": "CHANGE ZONE",
+                        "PARENT_QNT_UID": 2915641,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 3447034,
+                        "NAME": "NO DIAL TONE",
+                        "PARENT_QNT_UID": 2915641,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 3447076,
+                        "NAME": "No response after dialing",
+                        "PARENT_QNT_UID": 2915641,
+                        "CODE_TYPE": "R"
+                      }
+                ]
+            },
+
+            "IN Faults" : {
+                "QNT_UID" : 911039,
+                "children" : [
+                    {
+                        "QNT_UID": 83304,
+                        "NAME": "Call Maker Activated",
+                        "PARENT_QNT_UID": 911039,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 1511283,
+                        "NAME": "Activate Call Maker",
+                        "PARENT_QNT_UID": 911039,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 13639,
+                        "NAME": "Activate Call Maker",
+                        "PARENT_QNT_UID": 911039,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 4500,
+                        "NAME": "Voucher Reset",
+                        "PARENT_QNT_UID": 911039,
+                        "CODE_TYPE": "R"
+                      }
+                ]
+            },
+
+            "Data Line Faults" : {
+                "QNT_UID" : 2307577,
+                "children" : [
+                    {
+                        "QNT_UID": 2307730,
+                        "NAME": "NTU changed",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2307731,
+                        "NAME": "Card changed",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2307732,
+                        "NAME": "Rectifier replaced",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2307733,
+                        "NAME": "Reset Card",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2307734,
+                        "NAME": "Reset NTU",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2307736,
+                        "NAME": "Protection changed",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2308176,
+                        "NAME": "Subs error",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2308177,
+                        "NAME": "Subs power",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2308178,
+                        "NAME": "System restored",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2308179,
+                        "NAME": "Radio fixed",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2308180,
+                        "NAME": "Loose connection",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2308181,
+                        "NAME": "Line cable",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2308182,
+                        "NAME": "Fiber joined",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2308208,
+                        "NAME": "T/A Changed",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2308209,
+                        "NAME": "SA Cleared",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2307696,
+                        "NAME": "Protection changed",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2307735,
+                        "NAME": "Exchange Power restored",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 2308288,
+                        "NAME": "Data Fault diagnosed",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 2307654,
+                        "NAME": "RX signal missing",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2307687,
+                        "NAME": "AIS",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2307656,
+                        "NAME": "NTU Power",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2307657,
+                        "NAME": "CRC errors",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2307686,
+                        "NAME": "Offline",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 2307610,
+                        "NAME": "LOIS",
+                        "PARENT_QNT_UID": 2307577,
+                        "CODE_TYPE": "R"
+                      }
+                ]
+            },
+
+            "Network" : {
+                "QNT_UID" : 2297,
+                "children" : []
+            },
+
+            "Bulk Fault" : {
+                "QNT_UID" : 4501,
+                "children" : []
+            },
+
+            "Line Fault" : {
+                "QNT_UID" : 4492,
+                "children" : [
+                    {
+                        "QNT_UID": 9310,
+                        "NAME": "BLOCK TERMINAL (B/T)",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9320,
+                        "NAME": "REFER TO DATA",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9339,
+                        "NAME": "DISTRIBUTION POINT (DP)",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9341,
+                        "NAME": "DP MODULE REPLACED",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9342,
+                        "NAME": "DROP WIRE (D/W)",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9347,
+                        "NAME": "FAULT NOT FOUND (FNF)",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9354,
+                        "NAME": "INDOOR BLOCK",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9355,
+                        "NAME": "INDOOR WIRE (I/W)",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9374,
+                        "NAME": "MDF JUMPERING CORRECTED",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9375,
+                        "NAME": "MISCELLENEOUS",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9382,
+                        "NAME": "OPEN WIRE (O/W)",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9389,
+                        "NAME": "REFER TO PABX",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9404,
+                        "NAME": "CABLE REPAIRED",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9411,
+                        "NAME": "PROTECTION (PROT)",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9417,
+                        "NAME": "RIGHT WHEN TESTED (RWT)",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9430,
+                        "NAME": "TELE INSTRUMENT REPLACED",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9021,
+                        "NAME": "CEASED",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9038,
+                        "NAME": "POWER FAILURE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 87216,
+                        "NAME": "CABLE TESTED LINE FAULT",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9242,
+                        "NAME": "REFER TO ACCESS SYSTEMS",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 289443,
+                        "NAME": "Referred to private equipment",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 289770,
+                        "NAME": "TEMPORALY ON SUSPENSION(TOS)",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 87274,
+                        "NAME": "BREAKDOWN",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 87290,
+                        "NAME": "REFER TO SWITCHING",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 87292,
+                        "NAME": "INSTRUMENT FAULT",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 9032,
+                        "NAME": "REFER TO PAYPHONE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 87294,
+                        "NAME": "MAJOR FAILURE/BREAKDOWN",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 13292337,
+                        "NAME": "ADSL",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 13292338,
+                        "NAME": "CABINET",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 13292360,
+                        "NAME": "NO ACCESS",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "C"
+                      },
+                      {
+                        "QNT_UID": 87200,
+                        "NAME": "NOISY",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87146,
+                        "NAME": "CROSS CONNECTION",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87214,
+                        "NAME": "EXTENSION FAULTY",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87196,
+                        "NAME": "BREAKDOWN",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87178,
+                        "NAME": "REFER TO INTERNET",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87176,
+                        "NAME": "CHANGE TO CORRECT BT",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87162,
+                        "NAME": "RINGS CONTINUOUSLY",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87160,
+                        "NAME": "RINGS ONCE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87156,
+                        "NAME": "PERMANENT ENGAGED TONE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87142,
+                        "NAME": "ONE WAY TRANSMISSION",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87136,
+                        "NAME": "OUT OF ORDER",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 9074,
+                        "NAME": "NO RINGS",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 9116,
+                        "NAME": "NO DIALING TONE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87138,
+                        "NAME": "DATA",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87150,
+                        "NAME": "PERMANENT DIAL TONE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87164,
+                        "NAME": "TELEPHONE INSTRUMENT BROKEN",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "D"
+                      },
+                      {
+                        "QNT_UID": 87256,
+                        "NAME": "RINGS CONTINUOUSLY",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87264,
+                        "NAME": "TELEPHONE INSTRUMENT",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87312,
+                        "NAME": "DAMAGED DROP WIRE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87320,
+                        "NAME": "EXTENSION FAULTY",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87244,
+                        "NAME": "OUT OF ORDER",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87308,
+                        "NAME": "CROSS TALK",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87258,
+                        "NAME": "RINGS ONCE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87262,
+                        "NAME": "CANNOT CALL MAKE CALLS",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87306,
+                        "NAME": "CHANGE TO CORRECT BT",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87314,
+                        "NAME": "DELAYED DIAL TONE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87324,
+                        "NAME": "BREAKDOWN",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 3749402,
+                        "NAME": "NO DSL SIGNAL",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87238,
+                        "NAME": "NO RINGS",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87246,
+                        "NAME": "ONE WAY TRANSMISSION",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 8986,
+                        "NAME": "NOISY",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87236,
+                        "NAME": "LINE IS VERY FAINT",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87240,
+                        "NAME": "NO DIALING TONE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87248,
+                        "NAME": "PERMANENT DIAL TONE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      },
+                      {
+                        "QNT_UID": 87250,
+                        "NAME": "PERMANENT ENGAGED TONE",
+                        "PARENT_QNT_UID": 4492,
+                        "CODE_TYPE": "R"
+                      }
+                ]
+            }
+
+        }
+    }  
+    
+}
